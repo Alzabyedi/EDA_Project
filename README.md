@@ -18,7 +18,7 @@ Data validation,
 Read the data, 
 Calculating Number of reviews and its effect to price, 
 Finding the busiest hosts, 
-Visualization, 
+Visualization
 
 # Tools
 
