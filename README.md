@@ -22,9 +22,10 @@ Visualization
 
 # Tools
 
-Numby 
-Pandas
-Matplotlib
-seaborn
+•	Numby 
+•	Pandas
+•	Matplotlib
+•	seaborn
+
 
  
