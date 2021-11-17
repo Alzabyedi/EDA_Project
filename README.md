@@ -10,7 +10,7 @@ This analytical report will show the number of properties listed, mapping the ne
 
 # Data
 
-This dataset contains all the Airbnb listings from the year 2019 with 48895 observations and16 columns all are a mix of categorical and numerical values.
+This dataset contains all the Airbnb listings from the year 2019 with 48895 observations and 16 columns all are a mix of categorical and numerical values.
 
 # Algorithm
 
