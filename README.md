@@ -14,11 +14,11 @@ This dataset contains all the Airbnb listings from the year 2019 with 48895 obse
 
 # Algorithm
 
-Data validation 
-Read the data
-Calculating Number of reviews and its effect to price
-Finding the busiest hosts
-Visualization 
+Data validation,
+Read the data, 
+Calculating Number of reviews and its effect to price, 
+Finding the busiest hosts, 
+Visualization, 
 
 # Tools
 
